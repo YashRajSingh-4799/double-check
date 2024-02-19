@@ -14,9 +14,11 @@ const ResultList = ({ results }) => {
       </div>
     );
   } else {
-    return <div className="text-4xl lg:py-24 text-white font-extrabold">
+    return (
+      <div className="text-4xl lg:py-24 text-center text-white font-extrabold">
         Domain is taken, Try something else !!!
-    </div>;
+      </div>
+    );
   }
 };
 
