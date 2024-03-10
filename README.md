@@ -1,8 +1,30 @@
-# React + Vite
+# Double Check
+Our Domain Availability Checker is a web tool that lets users quickly search for domain names and compare prices from leading domain providers. Users enter their desired domain, and the tool instantly shows if it's available for purchase and the prices from different providers. Simplifying the domain purchasing process, it offers real-time data updates in a user-friendly interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Run Locally
 
-Currently, two official plugins are available:
+Clone the project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+  git clone https://github.com/YashRajSingh-4799/double-check.git
+```
+
+Go to the project directory
+
+```bash
+  cd double-check
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Set-up the backend from [here](https://github.com/YashRajSingh-4799/domain-check-api)
+
+Start the Localhost
+
+```bash
+  npm  run dev
+```
