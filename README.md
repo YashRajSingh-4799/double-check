@@ -1,4 +1,7 @@
 # Double Check
+
+![Demo](./double check (2).gif)
+
 Our Domain Availability Checker is a web tool that lets users quickly search for domain names and compare prices from leading domain providers. Users enter their desired domain, and the tool instantly shows if it's available for purchase and the prices from different providers. Simplifying the domain purchasing process, it offers real-time data updates in a user-friendly interface.
 
 ## Run Locally
